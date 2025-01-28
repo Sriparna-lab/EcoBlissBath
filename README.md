@@ -34,6 +34,7 @@ npx cypress run pour l'exécution des tests dans le terminal
 # Données de connexion au site Web
 
 identifiant: test2@test.fr 
+
 mot de passe: testtest
 
 #API Documentation API (swagger): (http://localhost:8081/api/doc)
