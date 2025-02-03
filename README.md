@@ -1,4 +1,5 @@
-# Eco--bliss--bath
+# EcoBlissBath
+
 ## Description du projet 
 
 Eco Bliss Bath est une start-up spécialisée dans la vente de produits de beauté écoresponsables dont le produit principal est un savon solide. La boutique prépare un site de vente en ligne.
@@ -6,6 +7,7 @@ Eco Bliss Bath est une start-up spécialisée dans la vente de produits de beaut
 Prérequis pour exécuter le projet : Node.js, Docker, NPM et Cypress.
 
 ## Installation
+
 1. **Téléchargez ou clonez le dépôt**
 
 2. **Back-end:**
@@ -35,6 +37,7 @@ _npx cypress open_ pour l'exécution des tests dans cypress
 _npx cypress run_ pour l'exécution des tests dans le terminal
 
 ## Données de connexion au site Web
+
 identifiant: test2@test.fr
 
 mot de passe: testtest
