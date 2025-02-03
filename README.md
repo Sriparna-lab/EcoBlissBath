@@ -1,5 +1,7 @@
 # Eco--bliss--bath
-## Description du projet Eco Bliss Bath est une start-up spécialisée dans la vente de produits de beauté écoresponsables dont le produit principal est un savon solide. La boutique prépare un site de vente en ligne.
+## Description du projet 
+
+Eco Bliss Bath est une start-up spécialisée dans la vente de produits de beauté écoresponsables dont le produit principal est un savon solide. La boutique prépare un site de vente en ligne.
 
 Prérequis pour exécuter le projet : Node.js, Docker, NPM et Cypress.
 
